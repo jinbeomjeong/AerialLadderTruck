@@ -1,0 +1,19 @@
+<?XML Version="1.0">
+<nidocument>
+<nicomment>
+<nifamily familyname="GPU Analysis Toolkit" displayname="GPU Analysis Toolkit">
+</nifamily>
+</nicomment>
+<nierror code="-359632">
+GPU Analysis Toolkit:  An error code was returned by NVIDIA CUFFT library.
+</nierror>
+<nierror code="-359631">
+GPU Analysis Toolkit:  An error code was returned by NVIDIA CUDA Toolkit Library.
+</nierror>
+<nierror code="-359630">
+GPU Analysis Toolkit:  An error code was returned by NVIDIA CUBLAS library.
+</nierror>
+<nierror code="-359601">
+GPU Analysis Toolkit:  Invalid data reference passed to GPU SDK API.
+</nierror>
+</nidocument>
